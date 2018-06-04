@@ -1,7 +1,5 @@
 <?php 
 echo "Sachin";
 
-echo "hey";
-
-echo "Bluethink";
+echo "new test commit after revert";
 ?>
